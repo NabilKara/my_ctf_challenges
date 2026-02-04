@@ -1,0 +1,1 @@
+FLAG=b"shellmates{0h_n00_th4t_w4s_my_b4ckd00r!_https://www.scitepress.org/Papers/2019/77866/77866.pdf}"
